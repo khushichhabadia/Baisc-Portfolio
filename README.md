@@ -2,16 +2,16 @@
 Welcome to my personal portfolio website! This project showcases my skills and projects as a front-end developer, built using HTML, CSS, and JavaScript.
 
 <h3>Table of Contents</h3>
-About
-Features
-Technologies Used
-Installation
-Usage
-Screenshots
-Contributing
-License
-Contact
-About
+About<br>
+Features<br>
+Technologies Used<br>
+Installation<br>
+Usage<br>
+Screenshots<br>
+Contributing<br>
+License<br>
+Contact<br>
+
 <br>
 This portfolio website is a personal project designed to display my work and skills in web development. It includes sections such as an "About Me" page, a showcase of my projects, and a contact form.
 <br>
