@@ -24,9 +24,8 @@ Features
 HTML
 CSS
 JavaScript
-
-<h3>PREVIEW</h3>
-![Screenshot (24)](https://github.com/user-attachments/assets/45a5921f-3380-4805-929a-5f75a9ca3b37)
+<h3>pREview</h3>
+https://github.com/user-attachments/assets/45a5921f-3380-4805-929a-5f75a9ca3b37
 
 <h3>To run this project locally, follow these steps:
 Copy code</h3>
