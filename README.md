@@ -12,13 +12,14 @@ Contributing
 License
 Contact
 About
-This portfolio website is a personal project designed to display my work and skills in web development. It includes sections such as an "About Me" page, a showcase of my projects, and a contact form.
 
+This portfolio website is a personal project designed to display my work and skills in web development. It includes sections such as an "About Me" page, a showcase of my projects, and a contact form.
+<br>
 Features
-->Responsive design that works on various devices and screen sizes
-->Beginner friendly design for an engaging user experience
-->A detailed showcase of my projects with descriptions and links
-->A contact form for visitors to reach out to me directly
+->Responsive design that works on various devices and screen sizes<br>
+->Beginner friendly design for an engaging user experience<br>
+->A detailed showcase of my projects with descriptions and links<br>
+->A contact form for visitors to reach out to me directly<br>
 
 <h3>Technologies Used</h3>
 HTML
