@@ -19,15 +19,19 @@ Features
 ->Beginner friendly design for an engaging user experience
 ->A detailed showcase of my projects with descriptions and links
 ->A contact form for visitors to reach out to me directly
-Technologies Used
+
+<h3>Technologies Used</h3>
 HTML
 CSS
 JavaScript
 
+<h3>PREVIEW</h3>
+![Screenshot (24)](https://github.com/user-attachments/assets/45a5921f-3380-4805-929a-5f75a9ca3b37)
+
 <h3>To run this project locally, follow these steps:
 Copy code</h3>
 
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/khushichhabadia/Basic-Portfolio.git
 
 <h3> Usage</h3>
 Feel free to explore the different sections of the portfolio to learn more about my work and skills. The website includes links to my projects, details about my experience, and a contact form to get in touch.
